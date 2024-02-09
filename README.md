@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋 I'm Francisco Martinez
+I've been insterested in programming since I was introduced to coding by a close friend, which prompted me to take several courses during my university career. Since then I've grown to enjoy the software development process which has allowed me to create tools for necessities at previous jobs.I enjoy the interpreted nature of Python and JavaScript, though I can appreciate the static typing behind TypeScript due to its improvements in code maintainability. Now, I'm eager to contribute my skills in a collaborative environment, learn from experienced developers, and make meaningful contributions to projects. If you're hiring and looking for a motivated team member, let's connect!
+
 
 <!--
 **Optimuhs/Optimuhs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
